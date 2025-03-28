@@ -2,6 +2,10 @@
 ## SparkFun Useful stuff
 #################
 
+Firmware/GNSSDO_Firmware/build/
+
+*backups*
+
 ## AVR Development
 *.eep
 *.elf
@@ -72,6 +76,7 @@ local.properties
 *.kicad_pcb-bak
 *.net
 *.gbr
+*.drl
 
 
 #################
@@ -196,7 +201,7 @@ Desktop.ini
 *.egg
 *.egg-info
 dist
-build
+#build
 eggs
 parts
 bin
