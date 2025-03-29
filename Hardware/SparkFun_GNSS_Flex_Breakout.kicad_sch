@@ -5107,7 +5107,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "SparkFun-Semiconductor-Standard:QFN-14_2.5x3mm_P0.5mm"
+			(property "Footprint" "SparkFun-Semiconductor-Standard:QFN-14_2.5x3mm_P0.5mm_EP1x1.5mm"
 				(at -17.78 -29.21 0)
 				(effects
 					(font
@@ -11744,7 +11744,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-Semiconductor-Standard:QFN-14_2.5x3mm_P0.5mm"
+		(property "Footprint" "SparkFun-Semiconductor-Standard:QFN-14_2.5x3mm_P0.5mm_EP1x1.5mm"
 			(at 191.77 123.19 0)
 			(effects
 				(font
@@ -11871,7 +11871,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SparkFun-Semiconductor-Standard:QFN-14_2.5x3mm_P0.5mm"
+		(property "Footprint" "SparkFun-Semiconductor-Standard:QFN-14_2.5x3mm_P0.5mm_EP1x1.5mm"
 			(at 191.77 74.93 0)
 			(effects
 				(font
