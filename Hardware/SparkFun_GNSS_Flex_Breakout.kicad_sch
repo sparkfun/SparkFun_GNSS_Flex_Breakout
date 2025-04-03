@@ -6,7 +6,7 @@
 	(paper "USLetter")
 	(title_block
 		(title "SparkFun GNSS Flex Breakout")
-		(date "2025-03-28")
+		(date "2025-04-03")
 		(rev "v01")
 		(company "SparkFun Electronics")
 		(comment 1 "Designed by: P.C.")
@@ -10376,7 +10376,7 @@
 		)
 	)
 	(global_label "SD_DAT3"
-		(shape output)
+		(shape bidirectional)
 		(at 99.06 63.5 0)
 		(fields_autoplaced yes)
 		(effects
@@ -10387,7 +10387,7 @@
 		)
 		(uuid "2067c2a8-e0b7-4344-8c4a-e369e2af6365")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 110.028 63.5 0)
+			(at 111.1393 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10552,7 +10552,7 @@
 		)
 	)
 	(global_label "SD_DAT3"
-		(shape input)
+		(shape bidirectional)
 		(at 27.94 171.45 180)
 		(fields_autoplaced yes)
 		(effects
@@ -10563,7 +10563,7 @@
 		)
 		(uuid "57af9826-ef5e-48fe-b82a-6dd5d7184ab9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 16.972 171.45 0)
+			(at 15.8607 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11014,7 +11014,7 @@
 		)
 	)
 	(global_label "SD_CMD"
-		(shape output)
+		(shape bidirectional)
 		(at 99.06 55.88 0)
 		(fields_autoplaced yes)
 		(effects
@@ -11025,7 +11025,7 @@
 		)
 		(uuid "b96ef3f0-1bcc-4068-a641-ce1c630e0ef4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 109.4837 55.88 0)
+			(at 110.595 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11256,7 +11256,7 @@
 		)
 	)
 	(global_label "SD_CMD"
-		(shape input)
+		(shape bidirectional)
 		(at 27.94 184.15 180)
 		(fields_autoplaced yes)
 		(effects
@@ -11267,7 +11267,7 @@
 		)
 		(uuid "f5f6d7c5-6abb-4699-aefa-f354136f2c90")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 17.5163 184.15 0)
+			(at 16.405 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11278,7 +11278,7 @@
 		)
 	)
 	(global_label "SD_DAT0"
-		(shape input)
+		(shape bidirectional)
 		(at 27.94 179.07 180)
 		(fields_autoplaced yes)
 		(effects
@@ -11289,7 +11289,7 @@
 		)
 		(uuid "f5f77321-711d-4db1-a108-62048b59aaf8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 16.972 179.07 0)
+			(at 15.8607 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11322,7 +11322,7 @@
 		)
 	)
 	(global_label "SD_DAT0"
-		(shape output)
+		(shape bidirectional)
 		(at 99.06 60.96 0)
 		(fields_autoplaced yes)
 		(effects
@@ -11333,7 +11333,7 @@
 		)
 		(uuid "fbf61951-ef47-4816-b625-0e31c1ee3517")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 110.028 60.96 0)
+			(at 111.1393 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)

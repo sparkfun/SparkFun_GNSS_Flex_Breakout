@@ -1,4 +1,4 @@
-25603438134519464
+25610435623860292
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -92660,14 +92660,21 @@ SparkFun capacitor electrolytic
 2
 SparkFun-Capacitor
 Panasonic_C
-<b>Panasonic Aluminium Electrolytic Capacitor VS-Serie Package E</b>
+Panasonic Aluminium Electrolytic Capacitor VS-Series Package C
 SparkFun
 0
 2
 2
 SparkFun-Capacitor
 Panasonic_D
-<b>Panasonic Aluminium Electrolytic Capacitor VS-Series Package D8</b>
+Panasonic Aluminium Electrolytic Capacitor VS-Series Package D8
+SparkFun
+0
+2
+2
+SparkFun-Capacitor
+Panasonic_F
+Panasonic Aluminium Electrolytic Capacitor FK-Series Package F
 SparkFun
 0
 2
@@ -93533,6 +93540,13 @@ SparkFun
 0
 17
 16
+SparkFun-Connector
+FPC_0.3mm-13
+
+SparkFun FPC 13 pin 0.3mm
+0
+15
+14
 SparkFun-Connector
 FPC_0.5mm-12
 12 pin backflip connector
@@ -95060,6 +95074,13 @@ SparkFun
 3
 3
 SparkFun-Semiconductor-Standard
+TO-263-2_TabPin2
+TO-263 / D2PAK / DDPAK SMD package, tab to pin 1, https://www.wolfspeed.com/media/downloads/137/C3D06060G.pdf
+D2PAK DDPAK TO-263 D2PAK-3 TO-263-3 SOT-404 diode
+0
+7
+3
+SparkFun-Semiconductor-Standard
 TSSOP-16
 TSSOP-16
 SparkFun
@@ -95136,6 +95157,13 @@ SparkFun WSON
 0
 9
 9
+SparkFun-Sensor
+BMV080_Outline
+
+
+0
+0
+0
 SparkFun-Sensor
 LG-MLGA-14-1_Z8B00206105
 
