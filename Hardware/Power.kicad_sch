@@ -2450,6 +2450,16 @@
 		)
 		(uuid "8cecdff9-9286-4be5-8e75-7da5364b4945")
 	)
+	(text "Open jumper when\nconnecting external\nbattery or power"
+		(exclude_from_sim no)
+		(at 240.03 33.02 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "abf97fb6-6b5d-434d-be31-bef25af0e09c")
+	)
 	(junction
 		(at 95.25 40.64)
 		(diameter 0)
@@ -2816,7 +2826,7 @@
 	)
 	(wire
 		(pts
-			(xy 254 40.64) (xy 254 39.37)
+			(xy 255.27 40.64) (xy 255.27 39.37)
 		)
 		(stroke
 			(width 0)
@@ -3056,7 +3066,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 40.64) (xy 246.38 40.64)
+			(xy 241.3 40.64) (xy 245.11 40.64)
 		)
 		(stroke
 			(width 0)
@@ -3107,7 +3117,7 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 40.64) (xy 254 40.64)
+			(xy 250.19 40.64) (xy 255.27 40.64)
 		)
 		(stroke
 			(width 0)
@@ -4332,15 +4342,15 @@
 	)
 	(symbol
 		(lib_id "SparkFun-Jumper:SolderJumper_2_Bridged")
-		(at 248.92 40.64 0)
+		(at 247.65 40.64 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "7e2c4466-4776-49bc-a759-59e944c725c5")
-		(property "Reference" "VBATT.1"
-			(at 248.92 38.1 0)
+		(property "Reference" "VBACKUP.1"
+			(at 247.65 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4348,7 +4358,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 248.92 38.1 0)
+			(at 247.65 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4356,7 +4366,7 @@
 			)
 		)
 		(property "Footprint" "SparkFun-Jumper:Jumper_2_NC_Trace"
-			(at 248.666 45.212 0)
+			(at 247.396 45.212 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4365,7 +4375,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 248.92 48.26 0)
+			(at 247.65 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4374,7 +4384,7 @@
 			)
 		)
 		(property "Description" "Solder Jumper, 2-pole, closed/bridged"
-			(at 248.92 50.8 0)
+			(at 247.65 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4391,7 +4401,7 @@
 		(instances
 			(project ""
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a/1cdefb16-dd9e-4f95-a59c-bf1818ce1464"
-					(reference "VBATT.1")
+					(reference "VBACKUP.1")
 					(unit 1)
 				)
 			)
@@ -4830,7 +4840,7 @@
 	)
 	(symbol
 		(lib_id "SparkFun-PowerSymbol:VBATT")
-		(at 254 39.37 0)
+		(at 255.27 39.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4839,7 +4849,7 @@
 		(fields_autoplaced yes)
 		(uuid "ad74df3a-70fb-4551-91f8-da154480ad53")
 		(property "Reference" "#PWR03"
-			(at 254 43.18 0)
+			(at 255.27 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4847,8 +4857,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VBATT"
-			(at 254 35.56 0)
+		(property "Value" "VBACKUP"
+			(at 255.27 35.56 0)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -4857,7 +4867,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 254 39.37 0)
+			(at 255.27 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4866,7 +4876,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 254 39.37 0)
+			(at 255.27 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4875,7 +4885,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VBATT\""
-			(at 254 45.72 0)
+			(at 255.27 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)

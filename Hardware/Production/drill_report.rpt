@@ -1,5 +1,5 @@
 Drill report for SparkFun_GNSS_Flex_Breakout_panelized.kicad_pcb
-Created on 2025-04-04T16:04:09+0100
+Created on 2025-04-10T15:07:41+0100
 
 Copper Layer Stackup:
     =============================================================
@@ -12,11 +12,11 @@ Copper Layer Stackup:
 Drill file 'SparkFun_GNSS_Flex_Breakout_panelized.drl' contains
     plated through holes:
     =============================================================
-    T1  0.305mm  0.0120"  (1148 holes)
+    T1  0.305mm  0.0120"  (1184 holes)
     T2  0.600mm  0.0236"  (32 holes)  (with 32 slots)
-    T3  1.016mm  0.0400"  (140 holes)
+    T3  1.016mm  0.0400"  (144 holes)
 
-    Total plated holes count 1320
+    Total plated holes count 1360
 
 
 Not plated through holes are merged with plated holes
