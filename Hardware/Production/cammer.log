@@ -1,8 +1,8 @@
-2025-04-10 15:07:35,750 - cammer_logger - INFO - Running CAMmer
-2025-04-10 15:07:35,762 - cammer_logger - INFO - ['-l', 'F.Cu,In1.Cu,In2.Cu,B.Cu,F.Paste,B.Paste,F.Silkscreen,B.Silkscreen,F.Mask,B.Mask', '-e', 'Edge.Cuts,User.Comments']
-2025-04-10 15:07:35,762 - cammer_logger - INFO - CAMMER START: 2025-04-10T15:07:35.762945
-2025-04-10 15:07:41,732 - cammer_logger - INFO - 
-START: 2025-04-10T15:07:35.762945
+2025-04-22 18:40:12,751 - cammer_logger - INFO - Running CAMmer
+2025-04-22 18:40:12,751 - cammer_logger - INFO - ['-l', 'F.Cu,In1.Cu,In2.Cu,B.Cu,F.Paste,B.Paste,F.Silkscreen,B.Silkscreen,F.Mask,B.Mask', '-e', 'Edge.Cuts,User.Comments']
+2025-04-22 18:40:12,751 - cammer_logger - INFO - CAMMER START: 2025-04-22T18:40:12.751024
+2025-04-22 18:40:20,429 - cammer_logger - INFO - 
+START: 2025-04-22T18:40:12.751024
 Board saved by user.
 Zones filled by CAMmer.
 Deleting existing C:/Users/pc235/Documents/GitHub/SparkFun_GNSS_Flex_Breakout/Hardware/Production/SparkFun_GNSS_Flex_Breakout_panelized.GTL
@@ -29,4 +29,4 @@ Deleting existing C:/Users/pc235/Documents/GitHub/SparkFun_GNSS_Flex_Breakout/Ha
 Renaming C:/Users/pc235/Documents/GitHub/SparkFun_GNSS_Flex_Breakout/Hardware/Production/SparkFun_GNSS_Flex_Breakout_panelized-Edge_Cuts.gbr to C:/Users/pc235/Documents/GitHub/SparkFun_GNSS_Flex_Breakout/Hardware/Production/SparkFun_GNSS_Flex_Breakout_panelized.GKO
 Drill report: C:\Users\pc235\Documents\GitHub\SparkFun_GNSS_Flex_Breakout\Hardware\Production\drill_report.rpt
 
-2025-04-10 15:07:47,190 - cammer_logger - INFO - CAMmer complete
+2025-04-22 18:40:23,360 - cammer_logger - INFO - CAMmer complete

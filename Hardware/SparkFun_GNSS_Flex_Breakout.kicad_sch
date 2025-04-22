@@ -6,8 +6,8 @@
 	(paper "USLetter")
 	(title_block
 		(title "SparkFun GNSS Flex Breakout")
-		(date "2025-04-10")
-		(rev "v01")
+		(date "2025-04-22")
+		(rev "v02")
 		(company "SparkFun Electronics")
 		(comment 1 "Designed by: P.C.")
 	)
@@ -19904,7 +19904,7 @@
 			)
 		)
 		(instances
-			(project "SparkFun_GNSS_Flex_Breakout_panelized"
+			(project "SparkFun_GNSS_Flex_Breakout"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(page "3")
 				)
@@ -19946,7 +19946,7 @@
 			)
 		)
 		(instances
-			(project "SparkFun_GNSS_Flex_Breakout_panelized"
+			(project "SparkFun_GNSS_Flex_Breakout"
 				(path "/e3dd3ae4-244d-4cba-9cca-5d2abf83f29a"
 					(page "2")
 				)
