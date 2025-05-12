@@ -6,8 +6,8 @@
 	(paper "USLetter")
 	(title_block
 		(title "SparkFun GNSS Flex Breakout")
-		(date "2025-04-22")
-		(rev "v02")
+		(date "2025-05-12")
+		(rev "v10")
 		(company "SparkFun Electronics")
 		(comment 1 "Designed by: P.C.")
 	)
@@ -8995,16 +8995,6 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 46.99) (xy 68.58 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1b43a96f-6816-44c6-b2b6-87dc861dc2b8")
-	)
-	(wire
-		(pts
 			(xy 36.83 173.99) (xy 48.26 173.99)
 		)
 		(stroke
@@ -9265,6 +9255,16 @@
 	)
 	(wire
 		(pts
+			(xy 66.04 46.99) (xy 68.58 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f23a916-5584-4721-9fe4-5689a20f973e")
+	)
+	(wire
+		(pts
 			(xy 240.03 34.29) (xy 240.03 35.56)
 		)
 		(stroke
@@ -9332,16 +9332,6 @@
 			(type default)
 		)
 		(uuid "492291cf-66a1-46c7-a88b-5627625f1e2c")
-	)
-	(wire
-		(pts
-			(xy 66.04 44.45) (xy 68.58 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4a8cddb9-5d0f-409b-97e1-34fe8002bf32")
 	)
 	(wire
 		(pts
@@ -10053,6 +10043,16 @@
 			(type default)
 		)
 		(uuid "a8833455-b910-448b-8537-63c3e10db765")
+	)
+	(wire
+		(pts
+			(xy 66.04 44.45) (xy 68.58 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9482709-6c14-4050-96bb-1f675a119847")
 	)
 	(wire
 		(pts
@@ -11369,7 +11369,7 @@
 	)
 	(global_label "RTK_LED"
 		(shape output)
-		(at 66.04 46.99 180)
+		(at 66.04 44.45 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11379,7 +11379,7 @@
 		)
 		(uuid "9d69eded-c596-48b6-a1a1-d14b38e2ee77")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 55.1325 46.99 0)
+			(at 55.1325 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11655,7 +11655,7 @@
 	)
 	(global_label "PVT_LED"
 		(shape output)
-		(at 66.04 44.45 180)
+		(at 66.04 46.99 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11665,7 +11665,7 @@
 		)
 		(uuid "d2dc2e5b-1ccd-4c41-8cb4-c3fd33735ccb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 55.3139 44.45 0)
+			(at 55.3139 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)

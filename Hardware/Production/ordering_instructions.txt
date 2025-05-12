@@ -1,7 +1,7 @@
 Ordering Instructions:
 Panel dimensions: 156.44 x 115.80 mm.
 Controlled Impedance: JLC04161H-7628
-Material: TG155
+Material: TG135
 Solder Mask: Red
 Silkscreen Color: White
 Layers: 4
