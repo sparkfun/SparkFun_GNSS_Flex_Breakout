@@ -11076,15 +11076,15 @@
 			(uuid "6d64c565-5ebb-4cfd-8c02-e76ae13e9156")
 		)
 		(embedded_fonts no)
-		(model "${SPARKFUN_KICAD_LIBRARY}/Footprints/SparkFun-3D-models/Coil/CHIP_100M4T_WAL.step"
+		(model "${SPARKFUN_KICAD_LIBRARY}/Footprints/SparkFun-3D-models/Coil/Choke_100MHz_USB_RFCMF1220100M4T.stp"
 			(offset
 				(xyz 0 0 0)
 			)
 			(scale
-				(xyz 1 0.9 0.9)
+				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 0 0)
 			)
 		)
 	)
