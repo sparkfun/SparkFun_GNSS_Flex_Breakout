@@ -63,6 +63,7 @@ GNSS Flex *Carrier* Boards:
 Version History
 ---------------
 - [v10](https://github.com/sparkfun/SparkFun_GNSS_Flex_Breakout/releases/tag/v10) - Initial Release
+- [v11](https://github.com/sparkfun/SparkFun_GNSS_Flex_Breakout/releases/tag/v11) - Refactored the 3D model for new color adjustment script
 
 
 License Information
