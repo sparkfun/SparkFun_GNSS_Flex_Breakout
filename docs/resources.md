@@ -13,8 +13,3 @@
 	- :fontawesome-solid-file-pdf: [JST-GH Datasheet](./assets/component_documentation/JST-GH_datasheet.pdf)
 	- :fontawesome-solid-file-pdf: [JST-SH Datasheet](./assets/component_documentation/JST-SH_datasheet.pdf)
 - :material-github: [Hardware Repo](https://github.com/sparkfun/SparkFun_GNSS_Flex_Breakout)
-
-
-### Additional Resources
-
-* :material-account-supervisor: [SparkFun Technical Assistance](https://www.sparkfun.com/technical_assistance)
